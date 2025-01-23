@@ -1,0 +1,15 @@
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\Ex009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\Ex009.AssemblyInfoInputs.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\Ex009.AssemblyInfo.cs
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\Ex009.csproj.CoreCompileInputs.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\Ex009.sourcelink.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\bin\Debug\net8.0\Ex009.exe
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\bin\Debug\net8.0\Ex009.deps.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\bin\Debug\net8.0\Ex009.runtimeconfig.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\bin\Debug\net8.0\Ex009.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\bin\Debug\net8.0\Ex009.pdb
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\Ex009.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\refint\Ex009.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\Ex009.pdb
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\Ex009.genruntimeconfig.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex009\obj\Debug\net8.0\ref\Ex009.dll

@@ -1,0 +1,15 @@
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\bin\Debug\net8.0\Ex014.exe
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\bin\Debug\net8.0\Ex014.deps.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\bin\Debug\net8.0\Ex014.runtimeconfig.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\bin\Debug\net8.0\Ex014.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\bin\Debug\net8.0\Ex014.pdb
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\Ex014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\Ex014.AssemblyInfoInputs.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\Ex014.AssemblyInfo.cs
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\Ex014.csproj.CoreCompileInputs.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\Ex014.sourcelink.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\Ex014.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\refint\Ex014.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\Ex014.pdb
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\Ex014.genruntimeconfig.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex014\obj\Debug\net8.0\ref\Ex014.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Caua.gpereira2\\OneDrive\\Curso Transforme-se\\Curso_c#\\Ex008\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406CE561-1422-4F16-8957-0D03C09C7F77}|Ex008.csproj|c:\\users\\caua.gpereira2\\onedrive\\curso transforme-se\\curso_c#\\ex008\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406CE561-1422-4F16-8957-0D03C09C7F77}|Ex008.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Caua.gpereira2\\OneDrive\\Curso Transforme-se\\Curso_c#\\Ex008\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Caua.gpereira2\\OneDrive\\Curso Transforme-se\\Curso_c#\\Ex008\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T00:55:03.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

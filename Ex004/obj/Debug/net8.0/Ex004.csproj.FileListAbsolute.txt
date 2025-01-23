@@ -1,0 +1,15 @@
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\bin\Debug\net8.0\Ex004.exe
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\bin\Debug\net8.0\Ex004.deps.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\bin\Debug\net8.0\Ex004.runtimeconfig.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\bin\Debug\net8.0\Ex004.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\bin\Debug\net8.0\Ex004.pdb
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\Ex004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\Ex004.AssemblyInfoInputs.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\Ex004.AssemblyInfo.cs
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\Ex004.csproj.CoreCompileInputs.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\Ex004.sourcelink.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\Ex004.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\refint\Ex004.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\Ex004.pdb
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\Ex004.genruntimeconfig.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Curso_c#\Ex004\obj\Debug\net8.0\ref\Ex004.dll
