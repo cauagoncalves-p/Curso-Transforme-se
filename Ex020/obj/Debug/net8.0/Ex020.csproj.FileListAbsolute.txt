@@ -1,0 +1,15 @@
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\bin\Debug\net8.0\Ex020.exe
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\bin\Debug\net8.0\Ex020.deps.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\bin\Debug\net8.0\Ex020.runtimeconfig.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\bin\Debug\net8.0\Ex020.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\bin\Debug\net8.0\Ex020.pdb
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\Ex020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\Ex020.AssemblyInfoInputs.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\Ex020.AssemblyInfo.cs
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\Ex020.csproj.CoreCompileInputs.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\Ex020.sourcelink.json
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\Ex020.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\refint\Ex020.dll
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\Ex020.pdb
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\Ex020.genruntimeconfig.cache
+C:\Users\Caua.gpereira2\OneDrive\Curso Transforme-se\Aula logica de programação\Ex020\obj\Debug\net8.0\ref\Ex020.dll
